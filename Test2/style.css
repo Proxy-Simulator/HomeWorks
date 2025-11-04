@@ -313,7 +313,7 @@ body{
 .about-form input:hover{
     border-color: #600f0f;
 }
-.contact-main fieldset{
+ {
     border: 5px solid #da9df6;
     border-radius: 50px;
     padding: 10px;
