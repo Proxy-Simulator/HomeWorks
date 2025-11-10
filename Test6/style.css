@@ -1,14 +1,14 @@
-.table{
-    border-collapse: collapse;
-    border: 1px solid black;
-    height: 1000px;
+.mondrian {
     width: 1000px;
+    height: 1000px;
+    border-spacing: 0;
+    border: 10px solid black;
 }
-.Column1 ,.Column2 ,.Column3 ,.Column4 ,.Column5,.Column6,.Column7{
-    background-color: lightgray;
-    border: 1px solid black;
+tr{
+    border: 10px solid black;
 }
-.Column-bro{
-    background-color: #954a4a;
-    border: 1px solid black;
+td{
+    border: 10px solid black;
 }
+
+
