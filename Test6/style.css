@@ -3,6 +3,7 @@
     height: 1000px;
     border-spacing: 0;
     border: 10px solid black;
+    white-space: nowrap;
 }
 tr{
     border: 10px solid black;
